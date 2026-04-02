@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=ZLY7%20%7C%20AI%20Systems%20Engineer&fontAlign=50&fontAlignY=38&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&desc=Building%20cool%20things%20for%20real-world%20AI&descAlignY=58&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=ZLY7%20%7C%20AI%20Systems%20Engineer&fontSize=60&fontAlign=50&fontAlignY=38&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&desc=Building%20cool%20things%20for%20real-world%20AI&descSize=24&descAlignY=58&descAlign=50" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+ZLY7+%F0%9F%91%8B;AI+Systems+%7C+LLM+Engineering+%7C+Pipeline+Intelligence;Build+Reliable%2C+Beautiful%2C+Geeky+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+ZLY7;AI+Systems+%7C+LLM+Engineering+%7C+Pipeline+Intelligence;Build+Reliable%2C+Beautiful%2C+Geeky+Products)](https://git.io/typing-svg)
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=zly7&style=flat-square&color=36BCF7" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/zly7?style=flat-square&color=0A66C2&labelColor=1f2937" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/zly7?style=flat-square&color=f5b700&labelColor=1f2937" alt="GitHub stars" />
+</p>
 
 </div>
 
-## 🧠 About Me
+## About Me
 
 ```txt
 I design and ship intelligent systems with an engineering-first mindset:
@@ -15,19 +21,19 @@ I design and ship intelligent systems with an engineering-first mindset:
 - Real-world, user-facing product experiences
 ```
 
-- 🔭 Current focus: **AI Agent Systems / Evaluation / Automation Workflows**
-- 🧩 Style: **Clean architecture + fast iteration + geek aesthetics**
-- 🌌 Motto: **"Make it work, make it elegant, make it scale."**
+- Current focus: **AI Agent Systems / Evaluation / Automation Workflows**
+- Style: **Clean architecture + fast iteration + geek aesthetics**
+- Motto: **"Make it work, make it elegant, make it scale."**
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🦀 PipeClaw
+### PipeClaw
 AI/engineering-oriented project hub for practical system building.
 
 **Highlights**
@@ -35,12 +41,12 @@ AI/engineering-oriented project hub for practical system building.
 - Engineering-first implementation
 - Reusable modules and workflows
 
-🔗 **Repo**: [zly7/pipeclaw](https://github.com/zly7/pipeclaw)
+Link: [zly7/pipeclaw](https://github.com/zly7/pipeclaw)
 
 </td>
 <td width="33%" valign="top">
 
-### 🏥 Lingxi Eldercare
+### Lingxi Eldercare
 A domain project around smart eldercare scenarios.
 
 **Highlights**
@@ -48,12 +54,12 @@ A domain project around smart eldercare scenarios.
 - AI-assisted decision/process support
 - Real-world scenario exploration
 
-🔗 **Repo**: [zly7/lingxi-eldercare](https://github.com/zly7/lingxi-eldercare)
+Link: [zly7/lingxi-eldercare](https://github.com/zly7/lingxi-eldercare)
 
 </td>
 <td width="33%" valign="top">
 
-### ⚙️ pipeFormer
+### pipeFormer
 A "former"-style technical exploration for pipeline intelligence.
 
 **Highlights**
@@ -61,7 +67,7 @@ A "former"-style technical exploration for pipeline intelligence.
 - Pipeline optimization mindset
 - Research-to-engineering translation
 
-🔗 **Repo**: [zly7/pipeFormer](https://github.com/zly7/pipeFormer)
+Link: [zly7/pipeFormer](https://github.com/zly7/pipeFormer)
 
 </td>
 </tr>
@@ -69,7 +75,7 @@ A "former"-style technical exploration for pipeline intelligence.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -85,14 +91,17 @@ A "former"-style technical exploration for pipeline intelligence.
 
 ---
 
-## 📊 GitHub Vibes
+## GitHub Vibes
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zly7&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zly7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zly7&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img height="170" src="https://streak-stats.demolab.com?user=zly7&theme=tokyonight&hide_border=true" />
 
-</div>
+<img width="88%" src="https://github-profile-trophy.vercel.app/?username=zly7&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" />
 
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=zly7&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+
+</div>
